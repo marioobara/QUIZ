@@ -1,3 +1,3 @@
 <?php
-include_once('index.tpl.php');
+include_once('question.tpl.php');
 ?>
